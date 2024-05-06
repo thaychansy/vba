@@ -37,10 +37,13 @@ Create a script that loops through all the stocks for each quarter and outputs t
 3. The percentage change from the opening price at the beginning of a given quarter to the closing price at the end of that quarter.
 4. The total stock volume of the stock. The result should match the following image:
 
-Moderate solution:
+<img width="578" alt="image" src="https://github.com/thaychansy/VBA-challenge/assets/161902555/3ad9c653-7e4f-4f56-ab7a-bca9d39ef120">
+
+
 Add functionality to your script to return the stock with the "Greatest % increase", "Greatest % decrease", and "Greatest total volume". The solution should match the following image:
 
-Hard solution:
+<img width="581" alt="image" src="https://github.com/thaychansy/VBA-challenge/assets/161902555/6fe07677-a99f-44d0-80b1-f328cb0977e4">
+
 Make the appropriate adjustments to your VBA script to enable it to run on every worksheet (that is, every quarter) at once.
 
 NOTE:
