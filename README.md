@@ -29,7 +29,7 @@
 ## About The Project
 
   <body>
-Instructions:
+
 
 Create a script that loops through all the stocks for each quarter and outputs the following information: 
 1. The ticker symbol
