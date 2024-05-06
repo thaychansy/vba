@@ -84,10 +84,7 @@ Screenshot of VBA Code (Project Explorer View):
 ## Getting Started
 
   
-
-This is an example of how you may give instructions on setting up your project locally.
-
-To get a local copy up and running follow these simple example steps.
+To get a local copy up and running follow the steps in the Installation and Usage section.
 
   
 
