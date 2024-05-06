@@ -56,6 +56,18 @@ Make sure to use conditional formatting that will highlight positive change in g
 
 Excel and Visual Basic for Applications (VBA) was framework used for this project.
 
+Screenshot of User Form (Project Explorer View):
+
+<img width="256" alt="image" src="https://github.com/thaychansy/VBA-challenge/assets/161902555/7e9a0053-a56b-49d6-91d8-1d1fdab96758">
+
+Screenshot of VBA Code (Project Explorer View):
+
+<img width="327" alt="image" src="https://github.com/thaychansy/VBA-challenge/assets/161902555/1d7a422e-c351-4075-8f7c-5834656a8394">
+
+
+
+
+
    
   
 
@@ -218,11 +230,11 @@ Project Link: [thaychansy/VBA-challenge: Module 2 Challenge (github.com)](https:
 Here's a list resources we found helpful and would like to give credit to. 
 
   
-* [ Chat GPT] ([ChatGPT](https://chatgpt.com/)
+* [ Chat GPT] [ChatGPT](https://chatgpt.com/)
 * [Google Gemini] [Gemini Generative AI](https://gemini.google.com/app)
 * [Stack Overflow] [ Stock Ticker Loop - Stack Overflow](https://stackoverflow.com/questions/48828163/stock-ticker-loop)
 * [Stack Overflow] [VBA loop of multiple sheets in a worksheet - Stack Overflow](https://stackoverflow.com/questions/52012092/vba-loop-of-multiple-sheets-in-a-worksheet/52012335#52012335)
-* [Stack Overflow] [How to apply a VBA code to every page in a workbook? Mine does part of the code to every page, but only applies entire code to last page - Stack Overflow](https://stackoverflow.com/questions/52122844/how-to-apply-a-vba-code-to-every-page-in-a-workbook-mine-does-part-of-the-code)
+* [Stack Overflow] [How to apply a VBA code to every page in a workbook? - Stack Overflow](https://stackoverflow.com/questions/52122844/how-to-apply-a-vba-code-to-every-page-in-a-workbook-mine-does-part-of-the-code)
 
 
 
