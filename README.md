@@ -84,7 +84,7 @@ Screenshot of VBA Code (Project Explorer View):
 ## Getting Started
 
   
-To get a local copy up and running follow the steps in the Installation and Usage section.
+To get a local copy of the files get up and running follow the steps in the Installation and Usage section.
 
   
 
