@@ -118,6 +118,21 @@ git  clone  https://github.com/thaychansy/VBA-challenge
 
 This space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. 
 
+1. Open excel file.
+   
+![image](https://github.com/thaychansy/VBA-challenge/assets/161902555/e7613e01-5e8b-40d5-931a-53263f9809c6)
+
+3. Click on `Enable Content` button.
+   
+![image](https://github.com/thaychansy/VBA-challenge/assets/161902555/a8286e70-2a0f-4701-be5c-f98e4460c1d2)
+
+4. A user form name Calculations will pop-up and click on Calculate to run the VBA code.
+   
+![image](https://github.com/thaychansy/VBA-challenge/assets/161902555/fb0832ef-602e-4246-883c-79304ed2f2ce)
+
+5. The VBA code will populate the Quaterly Change, Percent Change, and Total Stock Volume for each Quater. As well as the Greatest % Increase, % Decrease and Greatest Total Volume of all of teh Ticker names per Quater.
+   
+<img width="455" alt="image" src="https://github.com/thaychansy/VBA-challenge/assets/161902555/18c3b9f5-19a1-4434-a021-5c743aa81fcb">
   
 
 <p  align="right">(<a  href="#readme-top">back to top</a>)</p>
@@ -203,7 +218,7 @@ Project Link: [thaychansy/VBA-challenge: Module 2 Challenge (github.com)](https:
 Here's a list resources we found helpful and would like to give credit to. 
 
   
-* [ Chat GPT]([ChatGPT](https://chatgpt.com/))
+* [ Chat GPT]([ChatGPT](https://chatgpt.com/)
 * [Gemini Generative AI](https://gemini.google.com/app)
 * [ Stock Ticker Loop - Stack Overflow](https://stackoverflow.com/questions/48828163/stock-ticker-loop)
 * [VBA loop of multiple sheets in a worksheet - Stack Overflow](https://stackoverflow.com/questions/52012092/vba-loop-of-multiple-sheets-in-a-worksheet/52012335#52012335)
