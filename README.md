@@ -144,7 +144,27 @@ Once the repository has been clone, follow the instructions to run the VBA Code:
 
 5. The VBA code will populate the Quaterly Change, Percent Change, and Total Stock Volume for each Quater. As well as the Greatest % Increase, % Decrease and Greatest Total Volume of all of the Ticker names per Quater.
    
-<img width="455" alt="image" src="https://github.com/thaychansy/VBA-challenge/assets/161902555/18c3b9f5-19a1-4434-a021-5c743aa81fcb">
+Q1 Worksheet:
+
+<img width="704" alt="image" src="https://github.com/thaychansy/VBA-challenge/assets/161902555/601d04b7-be60-45b9-8cdf-5444cda93fe6">
+
+
+Q2 Worksheet:
+
+<img width="673" alt="image" src="https://github.com/thaychansy/VBA-challenge/assets/161902555/7d3ef533-8119-4e8c-8855-8b3d27d1b382">
+
+
+Q3 Worksheet:
+
+<img width="676" alt="image" src="https://github.com/thaychansy/VBA-challenge/assets/161902555/1085814a-6cab-49ee-ab3b-760b57ce2412">
+
+Q4 Worksheet:
+
+<img width="681" alt="image" src="https://github.com/thaychansy/VBA-challenge/assets/161902555/9fc464a8-6def-4acc-a7a5-cb0cfb21fffd">
+
+
+
+
   
 
 <p  align="right">(<a  href="#readme-top">back to top</a>)</p>
