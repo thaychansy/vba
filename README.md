@@ -181,7 +181,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
   
 
-Thay Chansy - [@thaychansy](https://twitter.com/thaychansy) - thay.chansy@gmail.com
+Thay Chansy - [@thaychansy](https://twitter.com/thaychansy) - or thay.chansy@gmail.com
 
   
 
