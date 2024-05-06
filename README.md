@@ -233,7 +233,7 @@ Project Link: [thaychansy/VBA-challenge: Module 2 Challenge (github.com)](https:
 Here's a list resources we found helpful and would like to give credit to. 
 
   
-* [ Chat GPT] [ChatGPT](https://chatgpt.com/)
+* [Chat GPT] [ChatGPT](https://chatgpt.com/)
 * [Google Gemini] [Gemini Generative AI](https://gemini.google.com/app)
 * [Stack Overflow] [ Stock Ticker Loop - Stack Overflow](https://stackoverflow.com/questions/48828163/stock-ticker-loop)
 * [Stack Overflow] [VBA loop of multiple sheets in a worksheet - Stack Overflow](https://stackoverflow.com/questions/52012092/vba-loop-of-multiple-sheets-in-a-worksheet/52012335#52012335)
