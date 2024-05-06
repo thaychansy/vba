@@ -116,7 +116,7 @@ git  clone  https://github.com/thaychansy/VBA-challenge
 
   
 
-This space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. 
+Once the repository has been clone, follow the instructions to run the VBA Code:
 
 1. Open excel file.
    
