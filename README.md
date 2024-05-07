@@ -57,7 +57,7 @@ Make sure to use conditional formatting that will highlight positive change in g
 
   
 
-Excel and Visual Basic for Applications (VBA) was framework used for this project.
+Excel and Visual Basic for Applications (VBA) was the framework used for this project.
 
 Screenshot of User Form (Project Explorer View):
 
