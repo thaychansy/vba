@@ -257,7 +257,7 @@ Here's a list resources we found helpful and would like to give credit to.
 * [Stack Overflow] [How to apply a VBA code to every page in a workbook? - Stack Overflow](https://stackoverflow.com/questions/52122844/how-to-apply-a-vba-code-to-every-page-in-a-workbook-mine-does-part-of-the-code)
 
 
-Collobaoration and Contributions:
+Collaboration and Contributions:
 
 Gursimran Kaur (Simran) - kaursimran081999@gmail.com
 
