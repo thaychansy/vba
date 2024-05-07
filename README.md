@@ -9,7 +9,7 @@
 <summary>Table of Contents</summary>
 
 <li><a href="#about-the-project">About The Project</a></li>
-<li><a href="#built-with">Built With VBA</a></li>
+<li><a href="#built-with-vba">Built With VBA</a></li>
 <li><a href="#getting-started">Getting Started</a></li>
 <li><a href="#prerequisites">Prerequisites</a></li>
 <li><a href="#installation">Installation</a></li>
@@ -53,7 +53,7 @@ Make sure to use conditional formatting that will highlight positive change in g
   
   
 
-### Built With
+### Built With VBA
 
   
 
