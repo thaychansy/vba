@@ -174,7 +174,7 @@ Q4 Worksheet:
 
 <!-- CONTRIBUTING -->
 
-## Contributing <UC Berkeley Bootcamp Only>
+## Contributing (UC Berkeley Bootcamp Student's Only)
 
   
 
