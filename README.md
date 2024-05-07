@@ -72,9 +72,9 @@ Screenshot of VBA Code (Project Explorer View):
 
 
    
-  
+  <p  align="right">(<a  href="#readme-top">back to top</a>)</p>
 
-<p  align="right">(<a  href="#readme-top">back to top</a>)</p>
+
 
   
   
@@ -86,7 +86,7 @@ Screenshot of VBA Code (Project Explorer View):
   
 To get a local copy of the files get up and running follow the steps in the Installation and Usage section.
 
-  
+
 
 ### Prerequisites
 
@@ -98,7 +98,7 @@ Microsoft Excel Developer Ribbon Enabled.
 
 
 
-  
+
 
 ### Installation
 
@@ -120,7 +120,7 @@ git  clone  https://github.com/thaychansy/VBA-challenge
 
 
   
-
+<p  align="right">(<a  href="#readme-top">back to top</a>)</p>
 <!-- USAGE EXAMPLES -->
 
 
