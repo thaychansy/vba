@@ -7,7 +7,7 @@
 
 
 <summary>Table of Contents</summary>
-
+<ol>
 <li><a href="#about-the-project">About The Project</a></li>
 <li><a href="#built-with-vba">Built With VBA</a></li>
 <li><a href="#getting-started">Getting Started</a></li>
@@ -16,7 +16,7 @@
 <li><a href="#contributing">Contributing (UC Berkeley Bootcamp Students Only) </a></li>
 <li><a href="#contact">Contact</a></li>
 <li><a href="#acknowledgments">Acknowledgments</a></li>
-
+</ol>
 
 
 
