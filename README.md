@@ -196,6 +196,8 @@ Don't forget to give the project a star! Thanks again!
 
 4. Push to the Branch (`git push origin new-branch-name`)
 
+5. Create a pull request. 
+
 
   
 
