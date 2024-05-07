@@ -199,7 +199,32 @@ Don't forget to give the project a star! Thanks again!
 5. Create a pull request. 
 
 
-  
+Addtional Information:
+
+Forking a repository and creating a pull request on GitHub is a great way to contribute to open-source projects. Here's a breakdown of the process:
+
+1. Forking the Repository:
+
+Find the repository you want to contribute to on GitHub.
+Click on the "Fork" button in the top right corner. This creates a copy of the repository in your own account.
+2. Clone the Forked Repository to Your Local Machine
+
+You'll need Git installed on your system.
+Use Git commands to clone your forked repository to your local machine. There will be instructions on the GitHub repository page for cloning.
+3. Making Changes (Local Work):
+
+Make your changes to the code in your local copy.
+Use Git commands to track your changes (adding, committing).
+4. Pushing Changes to Your Fork:
+
+Once you're happy with your changes, use Git commands to push your local commits to your forked repository on GitHub.
+5. Creating a Pull Request:
+
+Go to your forked repository on GitHub.
+Click the "Compare & pull request" button (might appear as a yellow banner).
+Here, you'll see a comparison between your changes and the original repository.
+Write a clear title and description for your pull request explaining the changes you made.
+Click "Create Pull Request" to submit it for review.
 
 <p  align="right">(<a  href="#readme-top">back to top</a>)</p>
 
