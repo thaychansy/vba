@@ -287,7 +287,7 @@ Here's a list resources we found helpful and would like to give credit to.
 
 Collaboration and Contributions:
 
-Special Thanks to:
+Special Thanks to Bootcamp Collaborator:
 Gursimran Kaur (Simran) - kaursimran081999@gmail.com
 
   
