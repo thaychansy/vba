@@ -21,8 +21,11 @@
 
 
   
-  
-  
+## Watch the Demo!
+
+[![Watch the video](https://github.com/thaychansy/VBA-challenge/assets/161902555/1bf5c81f-a272-446e-8c8b-c84aa36245b8)](https://youtu.be/TXCdTqJpnyY)
+
+
 
 <!-- ABOUT THE PROJECT -->
 
@@ -258,7 +261,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Thay Chansy - [@thaychansy](https://twitter.com/thaychansy) - or thay.chansy@gmail.com
 
-Pleae visit my Portfolio Page: thaychansy.github.io (https://thaychansy.github.io/)
+Please visit my Portfolio Page: thaychansy.github.io (https://thaychansy.github.io/)
 
 
 Gursimran Kaur - kaursimran081999@gamil.com
