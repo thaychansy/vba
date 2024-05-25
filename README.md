@@ -261,7 +261,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Thay Chansy - [@thaychansy](https://twitter.com/thaychansy) - or thay.chansy@gmail.com
 
-Pleae visit my Portfolio Page: thaychansy.github.io (https://thaychansy.github.io/)
+Please visit my Portfolio Page: thaychansy.github.io (https://thaychansy.github.io/)
 
 
 Gursimran Kaur - kaursimran081999@gamil.com
