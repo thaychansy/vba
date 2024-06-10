@@ -281,7 +281,7 @@ Project Link: [thaychansy/VBA-challenge: Module 2 Challenge (github.com)](https:
 
   
 
-Here's a list resources we found helpful and would like to give credit to. 
+Here's a list of resources we found helpful and would like to give credit to. 
 
   
 * [Chat GPT] [ChatGPT](https://chatgpt.com/)
