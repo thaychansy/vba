@@ -154,12 +154,12 @@ Q1 Worksheet:
 
 Q2 Worksheet:
 
-<kbd> <img width="673" alt="image" src="https://github.com/thaychansy/VBA-challenge/assets/161902555/7d3ef533-8119-4e8c-8855-8b3d27d1b382">
+<kbd> <img width="673" alt="image" src="https://github.com/thaychansy/VBA-challenge/assets/161902555/7d3ef533-8119-4e8c-8855-8b3d27d1b382"> </kbd>
 
 
 Q3 Worksheet:
 
-<img width="676" alt="image" src="https://github.com/thaychansy/VBA-challenge/assets/161902555/1085814a-6cab-49ee-ab3b-760b57ce2412"> </kbd>
+<kbd> <img width="676" alt="image" src="https://github.com/thaychansy/VBA-challenge/assets/161902555/1085814a-6cab-49ee-ab3b-760b57ce2412"> </kbd>
 
 Q4 Worksheet:
 
