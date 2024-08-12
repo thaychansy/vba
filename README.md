@@ -23,7 +23,7 @@
   
 ## Watch the Demo!
 
-[![Watch the video](https://github.com/thaychansy/VBA-challenge/assets/161902555/1bf5c81f-a272-446e-8c8b-c84aa36245b8)](https://youtu.be/nLyYhBhKh5w)
+<kbd> [![Watch the video](https://github.com/thaychansy/VBA-challenge/assets/161902555/1bf5c81f-a272-446e-8c8b-c84aa36245b8)](https://youtu.be/nLyYhBhKh5w) </kbd>
 
 
 
@@ -40,12 +40,12 @@ Create a script that loops through all the stocks for each quarter and outputs t
 3. The percentage change from the opening price at the beginning of a given quarter to the closing price at the end of that quarter.
 4. The total stock volume of the stock. The result should match the following image:
 
-<img width="578" alt="image" src="https://github.com/thaychansy/VBA-challenge/assets/161902555/3ad9c653-7e4f-4f56-ab7a-bca9d39ef120">
+<kbd> <img width="578" alt="image" src="https://github.com/thaychansy/VBA-challenge/assets/161902555/3ad9c653-7e4f-4f56-ab7a-bca9d39ef120"> </kbd>
 
 
 Add functionality to your script to return the stock with the "Greatest % increase", "Greatest % decrease", and "Greatest total volume". The solution should match the following image:
 
-<img width="581" alt="image" src="https://github.com/thaychansy/VBA-challenge/assets/161902555/6fe07677-a99f-44d0-80b1-f328cb0977e4">
+<kbd> <img width="581" alt="image" src="https://github.com/thaychansy/VBA-challenge/assets/161902555/6fe07677-a99f-44d0-80b1-f328cb0977e4"> </kbd>
 
 Make the appropriate adjustments to your VBA script to enable it to run on every worksheet (that is, every quarter) at once.
 
@@ -64,11 +64,11 @@ Excel and Visual Basic for Applications (VBA) was the framework used for this pr
 
 Screenshot of User Form (Project Explorer View):
 
-<img width="256" alt="image" src="https://github.com/thaychansy/VBA-challenge/assets/161902555/7e9a0053-a56b-49d6-91d8-1d1fdab96758">
+<kbd> <img width="256" alt="image" src="https://github.com/thaychansy/VBA-challenge/assets/161902555/7e9a0053-a56b-49d6-91d8-1d1fdab96758"> </kbd>
 
 Screenshot of VBA Code (Project Explorer View):
 
-<img width="327" alt="image" src="https://github.com/thaychansy/VBA-challenge/assets/161902555/1d7a422e-c351-4075-8f7c-5834656a8394">
+<kbd> <img width="327" alt="image" src="https://github.com/thaychansy/VBA-challenge/assets/161902555/1d7a422e-c351-4075-8f7c-5834656a8394"> </kbd>
 
 
 
@@ -135,35 +135,35 @@ Once the repository has been clone, follow the instructions to run the VBA Code:
 
 1. Open excel file.
    
-![image](https://github.com/thaychansy/VBA-challenge/assets/161902555/e7613e01-5e8b-40d5-931a-53263f9809c6)
+<kbd> ![image](https://github.com/thaychansy/VBA-challenge/assets/161902555/e7613e01-5e8b-40d5-931a-53263f9809c6) </kbd>
 
 3. Click on `Enable Content` button.
    
-![image](https://github.com/thaychansy/VBA-challenge/assets/161902555/a8286e70-2a0f-4701-be5c-f98e4460c1d2)
+<kbd> ![image](https://github.com/thaychansy/VBA-challenge/assets/161902555/a8286e70-2a0f-4701-be5c-f98e4460c1d2) </kbd>
 
 4. A user form name Calculations will pop-up and click on Calculate to run the VBA code.
    
-![image](https://github.com/thaychansy/VBA-challenge/assets/161902555/fb0832ef-602e-4246-883c-79304ed2f2ce)
+<kbd> ![image](https://github.com/thaychansy/VBA-challenge/assets/161902555/fb0832ef-602e-4246-883c-79304ed2f2ce) </kbd>
 
 5. The VBA code will populate the Quarterly Change, Percent Change, and Total Stock Volume for each Quarter. As well as the Greatest % Increase, % Decrease and Greatest Total Volume of all of the Ticker names per Quarter.
    
 Q1 Worksheet:
 
-<img width="704" alt="image" src="https://github.com/thaychansy/VBA-challenge/assets/161902555/601d04b7-be60-45b9-8cdf-5444cda93fe6">
+<kbd> <img width="704" alt="image" src="https://github.com/thaychansy/VBA-challenge/assets/161902555/601d04b7-be60-45b9-8cdf-5444cda93fe6"> </kbd>
 
 
 Q2 Worksheet:
 
-<img width="673" alt="image" src="https://github.com/thaychansy/VBA-challenge/assets/161902555/7d3ef533-8119-4e8c-8855-8b3d27d1b382">
+<kbd> <img width="673" alt="image" src="https://github.com/thaychansy/VBA-challenge/assets/161902555/7d3ef533-8119-4e8c-8855-8b3d27d1b382">
 
 
 Q3 Worksheet:
 
-<img width="676" alt="image" src="https://github.com/thaychansy/VBA-challenge/assets/161902555/1085814a-6cab-49ee-ab3b-760b57ce2412">
+<img width="676" alt="image" src="https://github.com/thaychansy/VBA-challenge/assets/161902555/1085814a-6cab-49ee-ab3b-760b57ce2412"> </kbd>
 
 Q4 Worksheet:
 
-<img width="681" alt="image" src="https://github.com/thaychansy/VBA-challenge/assets/161902555/9fc464a8-6def-4acc-a7a5-cb0cfb21fffd">
+<kbd> <img width="681" alt="image" src="https://github.com/thaychansy/VBA-challenge/assets/161902555/9fc464a8-6def-4acc-a7a5-cb0cfb21fffd"> </kbd>
 
 
 
